@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --gold: #D4A017;
+  --darkgreen: #0A4D23;
+  --lime: #9ED76B;
+  --brown: #6B4F2A;
+  --beige: #F7F3E8;
+}
+
+/* container helper */
+.container { max-width: 1100px; }
+
+/* Coming soon disabled button */
+.btn-gold { background: var(--gold); color: white; }
+.btn-disabled { background: #e6e6e6; color: #999; cursor: not-allowed; }
+
+/* small screens fix */
+img { display: block; max-width: 100%; height: auto; }
