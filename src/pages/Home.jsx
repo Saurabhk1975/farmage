@@ -25,7 +25,7 @@ export default function Home(){
             <div key={i} className="bg-white rounded-lg p-4 shadow relative">
               <img src="/images/mkh-front.jpg" alt={f} className="w-full h-32 md:h-40 object-cover rounded" />
               <h4 className="mt-2 text-darkgreen">{f}</h4>
-              <span className="absolute top-2 right-2 bg-red-600 text-white text-xs px-2 py-1 rounded">COMING SOON</span>
+              <span className="absolute top-2 right-2 bg-red-600 text-white text-xs px-2 py-1 rounded">Call Us</span>
             </div>
           ))}
         </div>
