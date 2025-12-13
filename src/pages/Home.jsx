@@ -19,7 +19,7 @@ export default function Home(){
       </section>
 
       <section className="container mx-auto px-4 md:px-6 py-12">
-        <h3 className="text-xl font-semibold text-darkgreen">Our Flavours <span className="bg-red-600 text-white text-xs px-2 py-1 rounded ml-2">COMING SOON</span></h3>
+        <h3 className="text-xl font-semibold text-darkgreen">Our Flavours <span className="bg-red-600 text-white text-xs px-2 py-1 rounded ml-2">Coming More..</span></h3>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-6 mt-6">
           {flavours.map((f, i) => (
             <div key={i} className="bg-white rounded-lg p-4 shadow relative">
