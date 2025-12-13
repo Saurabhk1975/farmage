@@ -15,8 +15,8 @@ export default function About(){
         quality, proper moisture levels and export-grade packaging.
 
         <br /><br />
-        For trade enquiries, export orders or dealership requests, email us at
-        <strong> farmagestore@gmail.com</strong>.
+        For trade enquiries, export orders or dealership requests, email or cal us at
+        <strong> farmagestore@gmail.com, +91 - 9662966244</strong>.
       </p>
     </main>
   )
