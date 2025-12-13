@@ -4,7 +4,7 @@ export default function Navbar(){
   return (
     <>
       <div className="bg-red-600 text-white text-center py-2 text-sm font-semibold">
-        ⚠️ Farmage store launching soon — products currently unavailable
+        Farmage store is live  —  currently connect via Email and Mobile.
       </div>
       <header className="bg-white/70 backdrop-blur-sm border-b">
         <div className="container mx-auto px-4 md:px-6 py-4 flex items-center justify-between">
