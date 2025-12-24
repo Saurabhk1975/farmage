@@ -72,7 +72,7 @@ export default function Product3D() {
         {/* LEFT SIDE */}
         <div>
           <h1 className="text-3xl md:text-4xl font-extrabold text-darkgreen flex items-center gap-3">
-            Authentic Makhana — Farmage
+            Authentic Makhana — Farmage (Unit of Paavitram Food Pvt Ltd)
             <ComingSoonBadge />
           </h1>
 
